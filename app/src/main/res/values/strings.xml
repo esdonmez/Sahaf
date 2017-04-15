@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sahaf</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="swap">
+        <item>Var</item>
+        <item>Yok</item>
+    </string-array>
+    <string name="category_title">Kategoriler</string>
+</resources>

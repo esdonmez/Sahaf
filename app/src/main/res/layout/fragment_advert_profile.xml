@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.AdvertProfileFragment">
+
+    <GridView
+        android:id="@+id/advertList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:verticalSpacing="0.5dp"
+        android:horizontalSpacing="0.5dp"
+        android:stretchMode="columnWidth"/>
+
+</FrameLayout>
